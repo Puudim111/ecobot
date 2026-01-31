@@ -70,4 +70,4 @@ async def on_message(message):
         await message.channel.send("❌ Comando inválido. Use !ajuda")
 
 # Coloque o token do seu bot aqui
-client.run("MTQ2NzIxMjY1MzAyOTEwMTU3OA.GuLQbQ.TRS2EDH2c_7smW5rvC8dH46hOLYO2DDN3FhVE4")
+client.run("INSIRA O TOKEN")
